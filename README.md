@@ -1,2 +1,2 @@
 # FaCT-Calculus
-FaCT Calculus- Empower yourself or AI to solve any problem, detect any lie, or create any winning strategy! Use the FaCT Calculus Ultimate guide as a document attachment in your AI of choice, then ask it a question, tell it to use FaCT to solve, and watch the magic!
+FaCT Calculus- Empower yourself or AI to solve any problem, detect any lie, or create any winning strategy! Watch the magic when you give your AI of choice the FaCT Calculus prompt injection as an attachment with a task using FaCT Calculus!
